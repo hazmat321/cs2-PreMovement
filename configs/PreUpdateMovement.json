@@ -1,0 +1,14 @@
+{
+  "Enabled": true,
+  "Mode": "ScaleInput",
+  "TargetTickRate": 64,
+  "FixedScaleOverride": null,
+  "ApplyOnMapStart": true,
+  "CVarProfile": {
+    "sv_accelerate": 5.5,
+    "sv_airaccelerate": 150.0,
+    "sv_friction": 5.2,
+    "sv_stopspeed": 80.0,
+    "sv_maxspeed": 320.0
+  }
+}
